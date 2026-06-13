@@ -1,6 +1,6 @@
 import "./App.css";
 import { useState, useEffect } from "react";
-import productos from "./data/Productos";
+import productos from "./data/productos";
 import Buscador from "./components/Buscador";
 import ListaCompras from "./components/ListaCompras";
 import TarjetaProducto from "./components/TarjetaProducto";
